@@ -4,7 +4,7 @@
   "description": "This is a test to see if the MightyIframeIntegration works.",
   "main": "index.js",
   "scripts": {
-    "prebuild": "npm install gitbook-cli -g",
+    "prebuild": "npm install gitbook-cli@2.1.2 -g",
     "build": "gitbook build"
   },
   "author": "",
